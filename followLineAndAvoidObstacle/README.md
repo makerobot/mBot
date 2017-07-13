@@ -37,6 +37,7 @@ Of course, the movement of the mBot with this code is not that nice. (But we hav
 I have also implemented a better line follower algorithm.
 In fact I have translated the built in line following program from Arduino to mBlock.
 In this case mBot does not try to correct the path as soon as it losts the line with one sensor.
+The movement is smoother than in previous solution.
 
 ![better line following solution](https://github.com/makerobot/mBot/blob/master/followLineAndAvoidObstacle/img/followLine2.png)
 
