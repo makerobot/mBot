@@ -1,5 +1,7 @@
 # Line following and obstacle avoidance with mBot
 
+[Youtube video](https://www.youtube.com/watch?v=QsXyMG2tgc0)
+
 mBot comes with three built in functions:
 - it can be driven through phone/tablet
 - obstacle avoidance
